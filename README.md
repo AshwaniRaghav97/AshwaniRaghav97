@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Ashwani Raghav👋</h1>
+<h1 align="center">Hi there, I'm Ashwani Raghav👋</h1>
 
 ## My StacK
 <p align="center">
