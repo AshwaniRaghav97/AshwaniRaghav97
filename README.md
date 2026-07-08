@@ -1,5 +1,14 @@
 <h1 align="center">Hi there, I'm Ashwani Raghav👋</h1>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/ashwani-raghav-67b9532a2/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/AshwaniRaghav/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
 ## My StacK
 <p align="center">
   <a href="#">
