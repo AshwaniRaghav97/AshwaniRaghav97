@@ -3,7 +3,7 @@
 ## My StacK
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,bootstrap,react,nodejs,mongodb,aws,git,github" alt="React, TailwindCSS, Vercel">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,python,mysql,mongodb,git,github,docker,linux,kubernetes,aws" alt="React, TailwindCSS, Vercel">
   </a>
 </p>
 
