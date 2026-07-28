@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Java Developer | MERN Stack Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Ashwani+Pandey;Java+Full+Stack+Developer;%7C+SQL+%7C+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Ashwani+Raghav;Java+Full+Stack+Developer;%7C+SQL+%7C+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ---
@@ -17,17 +17,17 @@
 - 🚀 Building scalable and responsive web applications
 - 🌱 Currently learning Java, Spring Boot, MERN Stack, REST APIs, Docker, and System Design
 - 🎯 Looking for Software Development Internship opportunities
-- 📫 **Email:** ashwanipandey987654@gmail.com
+- 📫 **Email:** raghavashwani0@gmail.com
 
 ---
 # 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/ashwani-pandey99">
+<a href="https://www.linkedin.com/in/ashwani-raghav-67b9532a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ashwanipandey987654@gmail.com">
+<a href="mailto:raghavashwani0@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -70,12 +70,12 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashwani-pandey-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ashwani-pandey-99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashwani-pandey-99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=AshwaniRaghav97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AshwaniRaghav97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshwaniRaghav97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ashwani-pandey-99&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AshwaniRaghav97&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
@@ -83,7 +83,7 @@
 
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwani-pandey-99&theme=github-dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwaniRaghav97&theme=github-dark&hide_border=true"/>
 
 </p>
 
