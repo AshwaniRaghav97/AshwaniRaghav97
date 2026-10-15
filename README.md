@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=INITIALIZING+DEVELOPER+PROFILE...;JAVA+%7C+MERN+STACK+%7C+DSA;BUILDING+IDEAS+INTO+REALITY;CODE.+DEBUG.+LEARN.+REPEAT." alt="Animated developer terminal"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=ASHWANI%20RAGHAV&fontSize=48&color=0:00F7FF,100:7B2FFF&stroke=00F7FF&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55" width="100%" alt="Cyber developer banner"/>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=ASHWANI%20RAGHAV&fontSize=58&fontColor=FFFFFF&fontAlignY=55&color=0:080B1A,50:123C69,100:00D9FF&stroke=00E5FF&strokeWidth=2&animation=fadeIn" width="100%" alt="Ashwani Raghav Developer Banner"/>
 </p>
 
 <p align="center">
