@@ -117,4 +117,54 @@ OBJECTIVE: Become stronger at problem solving with Java.
 ### `05 / GITHUB TELEMETRY`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=AshwaniRaghav97&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AshwaniRaghav97&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AshwaniRaghav97&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwaniRaghav97&bg_color=0d1117&color=00f7ff&line=7b2fff&point=ffffff&area=true&hide_border=true" alt="Contribution activity"/>
+</p>
+
+---
+
+### `06 / EDUCATION & MILESTONES`
+
+| Category | Details |
+|:--|:--|
+| 🎓 Degree | B.Tech, Computer Science & Engineering |
+| 🏛️ University | GLA University, Mathura |
+| 📅 Graduation | 2027 |
+| 📈 CPI | 7.1 |
+| 📜 Certificate | Meta Front-End Developer |
+| 🧩 Practice | Data Structures & Algorithms |
+
+---
+
+### `07 / ESTABLISH CONNECTION`
+
+<p align="center">
+  <a href="https://github.com/AshwaniRaghav97"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ashwani-raghav-67b9532a2/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/AshwaniRaghav/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:raghavashwani0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AshwaniRaghav97&style=flat-square&color=00f7ff&label=PROFILE+VISITORS" alt="Profile visitors"/>
+</p>
+
+<p align="center">
+  <i>"Great software is built one thoughtful line of code at a time."</i>
+</p>
+
+<p align="center">
+  <b>END OF TRANSMISSION // KEEP BUILDING. KEEP LEARNING.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=100&section=footer" width="100%" alt="Footer"/>
+</p>
