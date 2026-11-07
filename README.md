@@ -42,7 +42,7 @@ public class AshwaniRaghav {
 
 I'm a Computer Science student passionate about building useful web applications and solving problems with code. I enjoy exploring both frontend experiences and backend logic while strengthening my Java and DSA fundamentals.
 
-- ⚡ Turning ideas into working applications..
+- ⚡ Turning ideas into working applications.
 - 🧠 Solving algorithmic challenges with Java.
 - 🌐 Exploring MERN Stack and backend engineering.
 - 🎯 Working toward software development opportunities.
